@@ -1,0 +1,27 @@
+country_decisions = {
+	bugman.disable_estates = {
+		major = yes
+		potential = {
+			any_owned_province = {
+				limit = {
+					owned_by = ROOT
+				}
+				has_estate = yes
+			}
+		}
+		allow = {
+			has_estate = yes
+		}
+		effect = {
+			every_core_province = {
+				limit = {
+					owned_by = ROOT
+				}
+				remove_estate = yes
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

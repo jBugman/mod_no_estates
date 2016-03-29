@@ -1,0 +1,3 @@
+l_english:
+ bugman.disable_estates_title: "Remove all estates"
+ bugman.disable_estates_desc:  "Removes all assigned provinces from estates"

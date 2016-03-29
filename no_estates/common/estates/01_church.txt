@@ -1,0 +1,8 @@
+estate_church = {
+	icon = 1
+	trigger = {
+		always = no
+	}
+	keep_on_conquest = no
+	province_trigger = no
+}

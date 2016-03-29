@@ -1,0 +1,8 @@
+estate_cossacks = {
+	icon = 4
+	trigger = {
+		always = no
+	}
+	keep_on_conquest = no
+	province_trigger = no
+}

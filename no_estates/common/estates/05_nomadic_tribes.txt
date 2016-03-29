@@ -1,0 +1,8 @@
+estate_nomadic_tribes = {
+	icon = 5
+	trigger = {
+		always = no
+	}
+	keep_on_conquest = no
+	province_trigger = no
+}
