@@ -1,9 +1,10 @@
 name="No Estates"
+path="mod/no_estates"
+replace_path="estates"
 tags={
 	"Gameplay"
 	"Balance"
 	"Fixes"
 }
-supported_version="1.15.*.*"
-path="mod/no_estates"
-replace_path = "estates"
+picture="no_estates.png"
+supported_version="1.16.*.*"
