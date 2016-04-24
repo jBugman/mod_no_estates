@@ -1,3 +1,4 @@
+# Version 1.1.0
 name="No Estates"
 path="mod/no_estates"
 replace_path="estates"
