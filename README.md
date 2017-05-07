@@ -1,4 +1,4 @@
-###'No Estates' mod for Europa Universalis IV
+### 'No Estates' mod for Europa Universalis IV
 
 I do not like estates feature in Cossacks DLC so I put together a simple mod to disable it.
 
