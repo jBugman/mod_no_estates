@@ -1,4 +1,4 @@
-# Version 1.1.3
+# Version 1.1.4
 name="No Estates"
 path="mod/no_estates"
 replace_path="estates"
@@ -8,4 +8,4 @@ tags={
 	"Fixes"
 }
 picture="no_estates.png"
-supported_version="1.21.*.*"
+supported_version="1.22.*.*"
