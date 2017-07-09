@@ -218,6 +218,10 @@ country_event = {
 		num_of_cities = 6
 		any_owned_province = {
 			base_tax = 2
+			NOT = { region = scandinavia_region }
+			NOT = { region = baltic_region }
+			NOT = { region = east_siberia_region }
+			NOT = { region = west_siberia_region }
 			any_neighbor_province = {
 				NOT = { owned_by = ROOT }
 				owner = {
@@ -253,6 +257,10 @@ country_event = {
 			random_owned_province = {
 				limit = {
 					base_tax = 2
+					NOT = { region = scandinavia_region }
+					NOT = { region = baltic_region }
+					NOT = { region = east_siberia_region }
+					NOT = { region = west_siberia_region }
 					any_neighbor_province = {
 						NOT = { owned_by = ROOT }
 						owner = {
@@ -460,6 +468,7 @@ country_event = {
 	
 	option = {
 		name = cossack_estate_events.4.a #We care little for such excuses.
+		add_opinion = { who = FROM modifier = cossack_raids_opinion }
 		random_owned_province = {
 			limit = {
 				base_tax = 2

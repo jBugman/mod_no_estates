@@ -20,6 +20,7 @@ estate_burghers =
 	# If true, country will get estate
 	trigger = {	
 		NOT = { government = merchant_republic }
+		NOT = { government = veche_republic }
 		NOT = { government = trading_city }
 		NOT = { government = revolutionary_republic }
 		NOT = { government = native_council }
@@ -291,7 +292,7 @@ estate_burghers =
 			num_of_cities = 10
 		}	
 		value = 5		
-	}		
+	}
 
 	# Special interactions
 	interaction = {

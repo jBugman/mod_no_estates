@@ -9,6 +9,7 @@ country_decisions = {
 				has_country_flag = junker_dominance_prussian_monarchy
 				has_country_flag = gentry_dominance
 				has_country_flag = bushi_power_japan
+				has_country_flag = boyar_dominance
 			}
 		}
 		allow = {
@@ -61,7 +62,12 @@ country_decisions = {
 				}
 				remove_country_modifier = bushi_power_japan
 			}
-			
+			if = {
+				limit = {
+					has_country_modifier = boyar_dominance
+				}
+				remove_country_modifier = boyar_dominance
+			}
 			clr_country_flag = noble_estate_in_power
 		}
 		ai_will_do = {

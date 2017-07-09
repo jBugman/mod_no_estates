@@ -11,6 +11,7 @@ estate_nomadic_tribes = {
 		NOT = { government = merchant_republic }
 		NOT = { government = native_council }
 		NOT = { government = siberian_native_council }
+		NOT = { government = veche_republic }
 		is_nomad = yes
 		is_colonial_nation = no
 		NOT = { government = celestial_empire }
