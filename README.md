@@ -5,3 +5,5 @@ I do not like estates feature in Cossacks DLC so I put together a simple mod to 
 * Disables estates for all countries
 * Disables estate-related events
 * Adds decision to remove existing estates from all provinces
+
+Works best in new games but should retroactively apply to saves as well.

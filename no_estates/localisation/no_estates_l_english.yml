@@ -1,3 +1,6 @@
-l_english:
- bugman.disable_estates_title: "Remove all estates"
- bugman.disable_estates_desc:  "Removes all assigned provinces from estates"
+﻿l_english:
+ bugman.disable_estates_title:0 "Remove all estates"
+ bugman.disable_estates_desc:0 "Removes all assigned provinces from estates"
+ bugman.dummy_event_title:0 "BUG in no_estates mod"
+ bugman.dummy_event_desc:0 "If you are seeing this, please report"
+ bugman.dummy_event_option_name:0 "THIS IS FINE"

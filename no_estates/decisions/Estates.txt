@@ -3,10 +3,10 @@ country_decisions = {
 		major = yes
 		potential = {
 			any_owned_province = {
-				limit = {
+				AND = {
 					owned_by = ROOT
+					has_estate = yes
 				}
-				has_estate = yes
 			}
 		}
 		allow = {

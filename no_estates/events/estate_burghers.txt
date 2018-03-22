@@ -1,0 +1,211 @@
+namespace = burghers_estate_events
+
+country_event = {
+	id = burghers_estate_events.1
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.2
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.3
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.4
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.5
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.6
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.7
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.8
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.9
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.10
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.11
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.12
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.13
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.14
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+country_event = {
+	id = burghers_estate_events.15
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
+
+province_event = {
+	id = burghers_estate_events.16
+	title = bugman.dummy_event_title
+	desc = bugman.dummy_event_desc
+	picture = COSSACK_ESTATE_eventPicture
+	trigger = {
+		always = NO
+	}
+	is_triggered_only = yes
+	option = {
+		name = bugman.dummy_event_option_name
+	}
+}
