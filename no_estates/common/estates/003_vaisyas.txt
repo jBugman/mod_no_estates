@@ -1,0 +1,10 @@
+estate_vaisyas = {
+	icon = 9
+	trigger = {
+		always = no
+	}
+	keep_on_conquest = no
+	province_trigger = {
+		always = no
+	}
+}

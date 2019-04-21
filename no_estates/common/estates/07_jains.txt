@@ -1,0 +1,10 @@
+estate_jains = {
+	icon = 11
+	trigger = {
+		always = no
+	}
+	keep_on_conquest = no
+	province_trigger = {
+		always = no
+	}
+}
